@@ -1,4 +1,4 @@
-Namespace(batch=256, batchPerStep=128, config='config.yaml', device=7, epoch=50, lr=0.005, model='defaultnorm0', optimizer='adam', outdir='HEP-CNN-results/training/224x224_trackpt/model_defaultnorm0/run__lr_5e-3__batch_256x128', shuffle=True)
+Namespace(batch=256, batchPerStep=1, config='config.yaml', device=5, epoch=50, lr=0.001, model='defaultnorm0', optimizer='adam', outdir='HEP-CNN-results/training/224x224_trackpt/model_defaultnorm0/run__lr_1e-3__batch_256x1', shuffle=True)
 
 MyModel(
   (conv): Sequential(
