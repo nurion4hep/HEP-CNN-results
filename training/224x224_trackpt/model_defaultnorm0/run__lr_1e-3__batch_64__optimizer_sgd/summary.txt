@@ -1,4 +1,4 @@
-Namespace(batch=64, batchPerStep=1, config='config.yaml', device=0, epoch=50, lr=0.001, model='defaultnorm1', optimizer='ranger', outdir='/users/tongilkim/work/result/20200822/run__model_defaultnorm1__lr_1e-3__trackCh_pt__batch_64__optimizer_ranger', shuffle=True)
+Namespace(batch=64, batchPerStep=1, config='config.yaml', device=1, epoch=50, lr=0.001, model='defaultnorm0', optimizer='sgd', outdir='/users/tongilkim/work/result/20200822/run__model_defaultnorm0__lr_1e-3__trackCh_pt__batch_64__optimizer_sgd', shuffle=True)
 
 MyModel(
   (conv): Sequential(
